@@ -4,5 +4,11 @@
     "description": "Download all files from Pastebin! (Work in Progress)",
     "author": "znepb LLC",
     "version": 1.0
+  },
+  "zsa002": {
+    "name": "PAIN",
+    "description": "An image editor for CC (Via pastebin)",
+    "author": "THEROCKETTEK",
+    "version": 1.0
   }
 }
