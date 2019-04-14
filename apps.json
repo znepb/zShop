@@ -1,14 +1,8 @@
 {
   "zsa001": {
-    "name": "Testing App",
-    "description": "This is a testing application!",
-    "author": "zOS",
-    "version": 1.0
-  },
-  "zsa002": {
-    "name": "Testing App 2",
-    "description": "This is a testing application!",
-    "author": "zOS",
+    "name": "Pastebin",
+    "description": "Download all files from Pastebin!",
+    "author": "znepb LLC",
     "version": 1.0
   }
 }
