@@ -1,2 +1,2 @@
-print("Yeah this is just a test app :/")
-sleep(10)
+print("This application is work in progress.\nPress any key to exit.")
+os.pullEvent("key")
